@@ -11,6 +11,7 @@ public class Printhello {
 		System.out.println("trying multiple commits");
 		System.out.println("pushing to upstream");
 		System.out.println("push master");
+		System.out.println("pushing branch now");
 	}
 
 }
