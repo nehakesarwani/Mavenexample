@@ -9,6 +9,7 @@ public class Printhello {
 		System.out.println("trying to get push confirmation");
 		System.out.println("second line");
 		System.out.println("trying multiple commits");
+		System.out.println("pushing to upstream");
 	}
 
 }
