@@ -6,6 +6,7 @@ public class Printhello {
 		// TODO Auto-generated method stub
 		System.out.println("Hello");
 
+		System.out.println("trying to get push confirmation");
 		System.out.println("second line");
 	}
 
